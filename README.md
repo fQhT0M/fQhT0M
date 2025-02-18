@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi there 👋 I'm Savva
+Data Scientist from Moscow
 <!--
 **fQhT0M/fQhT0M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
